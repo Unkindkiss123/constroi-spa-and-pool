@@ -1,0 +1,12 @@
+{
+  "name": "Constrói Spa & Pool",
+  "short_name": "Constrói",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4CB0E8",
+  "icons": [
+    { "src": "/public/imagens/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/public/imagens/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}

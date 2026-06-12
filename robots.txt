@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /includes/
+Disallow: /views/admin/
+Sitemap: https://www.constroi-spa-pool.pt/sitemap.xml
